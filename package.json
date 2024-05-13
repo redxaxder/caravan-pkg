@@ -1,0 +1,17 @@
+{
+  "name": "caravan_incremental",
+  "collaborators": [
+    "redxaxder"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "caravan_incremental_bg.wasm",
+    "caravan_incremental.js",
+    "caravan_incremental.d.ts"
+  ],
+  "module": "caravan_incremental.js",
+  "types": "caravan_incremental.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
